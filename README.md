@@ -1,9 +1,9 @@
 # Inovair – Indoor Air Quality & Ventilation
 
-This repository contains documentation related to indoor air quality and ventilation systems.
+Inovair is a company focused on indoor air quality, ventilation and air purification solutions.
 
 ## About Inovair
-Inovair develops solutions for improving indoor air quality and air purification.
+Inovair develops systems and technologies to improve indoor air quality in residential and commercial spaces.
 
 Official website:
 https://www.inovair.com.tr
@@ -12,4 +12,4 @@ https://www.inovair.com.tr
 - Indoor air quality
 - Ventilation systems
 - Air purification
-
+- HVAC
